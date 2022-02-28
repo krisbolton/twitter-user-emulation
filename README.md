@@ -23,7 +23,7 @@ Steps:
 
 ### 1. The login URL may be different. 
 
-At the time of writing Twitter's login page was "https://twitter.com/i/flow/logi".
+At the time of writing Twitter's login page was "https://twitter.com/i/flow/login".
 
 ### 2. The XPATH to the username and/or password form fields may be different. 
 
