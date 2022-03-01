@@ -1,11 +1,11 @@
 # twitter-user-emulation
-A simple twitter "bot" using Selenium to login to Twitter without using Twitter's API.
+A simple twitter "bot" using Selenium to login to Twitter without using [Twitter's API](https://developer.twitter.com/en/docs/twitter-api).
 
-This script was built as an experiment using Selenium to login to Twitter as a bot may and tested in PyCharm.
+This script was built as an experiment using [Selenium](https://www.selenium.dev/) to login to Twitter as a bot may and tested in PyCharm.
 
 ## Install
 
-You'll need to install Selenium via pip in your IDE's terminal.
+You'll need to install [Selenium via pip](https://pypi.org/project/selenium/) in your IDE's terminal.
 
 `pip install selenium`
 
